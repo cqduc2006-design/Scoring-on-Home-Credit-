@@ -1,0 +1,8 @@
+numpy
+polars
+matplotlib
+seaborn
+kagglehub
+scikit-learn
+optuna
+lightgbm
